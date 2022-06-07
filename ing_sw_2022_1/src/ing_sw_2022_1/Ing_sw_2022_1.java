@@ -15,6 +15,7 @@ public class Ing_sw_2022_1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Prueba git - netbeans");
         // TODO code application logic here
     }
     
