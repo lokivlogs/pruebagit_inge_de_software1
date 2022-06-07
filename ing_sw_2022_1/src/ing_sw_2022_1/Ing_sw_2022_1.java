@@ -16,6 +16,7 @@ public class Ing_sw_2022_1 {
      */
     public static void main(String[] args) {
         System.out.println("Prueba git - netbeans");
+        System.out.println("Commit desde local");
         // TODO code application logic here
     }
     
